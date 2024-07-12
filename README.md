@@ -5,10 +5,10 @@ This is the first challenge of Full Cycle's Go expert postgraduate course.
 
 ### Server
 ```
-go run server.go
+make run-server
 ```
 
 ### Client
 ```
-go run client.go
+make run-client
 ```
